@@ -83,6 +83,8 @@ with open("pass_list.txt") as fp:
         #if(address == 'bc1q57euh23y3qs2f9d5mtwpax5lqecfvrdkqce82a'):
             with open('found.txt', 'a') as result:
                 result.write(f'{passphrase}|{private_key.hex()}|{WIF(private_key.hex())}\n')
+            break
+
 
 
 
