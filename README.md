@@ -15,12 +15,12 @@ He allows us to drain both "wallets" so far, the only thing we need to do is gue
 Well, that's actually all the important information i could specify about this "puzzle". I have not found any clues or hints, but I tried 1/3 of rockyou.txt pass list along with some composed from his article\github word passphrases - nothing worked for me so far.
 
 To run the bruteforce attack on this puzzle:
-```
+
 *    ***download*** the ***"BruteCats"*** folder (clone it, download the zip with it, whatever)
 **   ***install the python*** and all required python ***modules (hashlib, bip39, bip32, buidl, codecs)***
 ***  ***fill the "pass_list.txt"*** file with the passwords you want to try
 **** ***run*** the python script (***brute_cats.py***)
-```
+
 
 ## P.S.
 
