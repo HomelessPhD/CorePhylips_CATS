@@ -16,13 +16,13 @@ Well, that's actually all the important information i could specify about this "
 
 To run the bruteforce attack on this puzzle:
 
-*    ***download*** the ***"BruteCats"*** folder (clone it, download the zip with it, whatever)
+1]  ***download*** the ***"BruteCats"*** folder (clone it, download the zip with it, whatever)
   
-**   ***install the python*** and all required python ***modules (hashlib, bip39, bip32, buidl, codecs)***
+2]  ***install the python*** and all required python ***modules (hashlib, bip39, bip32, buidl, codecs)***
 
-***  ***fill the "pass_list.txt"*** file with the passwords you want to try
+3]  ***fill the "pass_list.txt"*** file with the passwords you want to try
 
-**** ***run*** the python script (***brute_cats.py***)
+4]  ***run*** the python script (***brute_cats.py***)
 
 
 ## P.S.
